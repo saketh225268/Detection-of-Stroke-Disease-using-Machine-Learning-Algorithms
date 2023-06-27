@@ -1,0 +1,2 @@
+python StrokeDetection.py
+pause
