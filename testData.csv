@@ -1,0 +1,15 @@
+id,gender,age,hypertension,brain_disease,ever_married,work_type,Residence_type,avg_glucose_level,bmi,smoking_status
+56112,Male,64.0,0,1,Yes,Private,Urban,191.61,37.5,smokes
+15266,Female,32,0,0,Yes,Private,Rural,77.67,32.3,smokes
+28674,Female,74,1,0,Yes,Self-employed,Urban,205.84,54.6,never smoked
+10460,Female,79,0,0,Yes,Govt_job,Urban,77.08,35,0
+64908,Male,79,0,1,Yes,Private,Urban,57.08,22,formerly smoked
+34120,Male,75.0,1,0,Yes,Private,Urban,221.29,25.8,smokes
+30328,Female,69,1,0,Yes,Govt_job,Rural,103.44,43.1,formerly smoked
+27458,Female,60.0,0,0,No,Private,Urban,89.22,37.8,never smoked
+70630,Female,71.0,0,0,Yes,Govt_job,Rural,193.94,22.4,smokes
+13861,Female,52.0,1,0,Yes,Self-employed,Urban,233.29,48.9,never smoked
+739,Female,73,0,0,Yes,Self-employed,Rural,79.69,,formerly smoked
+44224,Male,15,0,0,No,Private,Rural,61.61,27.8,never smoked
+533,Female,3,0,0,No,children,Rural,94.12,21.4,0
+45554,Female,1.24,0,0,No,children,Urban,62.4,22.1,0
